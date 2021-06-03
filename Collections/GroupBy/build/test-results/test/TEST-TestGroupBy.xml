@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestGroupBy" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-29T11:23:30" hostname="ip-192-168-0-20.eu-west-1.compute.internal" time="0.041">
+  <properties/>
+  <testcase name="testGroupCustomersByCity" classname="TestGroupBy" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

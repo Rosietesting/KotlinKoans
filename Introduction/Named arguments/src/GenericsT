@@ -1,0 +1,24 @@
+
+/*
+
+Generally, in Kotlin generics is defined by <T>
+where “T” stands for template.
+
+In the above piece of code, we are creating one class with generic return type,
+which is represented as <T>. Take a look at the main method,
+where we have dynamically defined its value at the run by proving the value type,
+while creating the object of this class.
+This is how generics is interpreted by Kotlin compiler.
+
+*/
+
+fun main(args: Array<String>) {
+    var object = genericsExample<String>("JAVA")
+    var object1 = genericsExample<Int>(10)
+}
+
+class genericsExample<T>(input:T) {
+    init {
+        println("I am getting called with the value "+input)
+    }
+}

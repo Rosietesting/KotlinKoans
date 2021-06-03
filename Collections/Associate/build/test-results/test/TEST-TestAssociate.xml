@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestAssociate" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-30T09:46:04" hostname="Rosibels-MacBook-Pro.local" time="0.06">
+  <properties/>
+  <testcase name="testAssociate" classname="TestAssociate" time="0.058"/>
+  <testcase name="testAssociateBy" classname="TestAssociate" time="0.001"/>
+  <testcase name="testAssociateWith" classname="TestAssociate" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestOperatorsOverloading" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-26T09:15:49" hostname="Rosibels-MacBook-Pro.local" time="0.172">
+  <properties/>
+  <testcase name="testOneMonth" classname="TestOperatorsOverloading" time="0.113"/>
+  <testcase name="testAddOneTimeInterval" classname="TestOperatorsOverloading" time="0.009"/>
+  <testcase name="testMonthChange" classname="TestOperatorsOverloading" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

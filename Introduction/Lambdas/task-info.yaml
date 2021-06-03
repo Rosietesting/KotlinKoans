@@ -1,0 +1,28 @@
+type: edu
+custom_name: Lambdas
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 82
+    length: 11
+    placeholder_text: TODO()
+    initial_state:
+      length: 6
+      offset: 82
+    initialized_from_dependency: false
+    possible_answer: it % 2 == 0
+    selected: true
+    status: Solved
+  text: |
+    fun containsEven(collection: Collection<Int>): Boolean =
+            collection.any { TODO() }
+  learner_created: false
+- name: src/TaskExtensionLambdaExercices.kt
+  visible: true
+  learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 14 Jan 2021 23:24:01 UTC
+record: -1
